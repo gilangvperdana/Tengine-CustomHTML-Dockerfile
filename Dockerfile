@@ -1,4 +1,4 @@
-FROM axizdkr/tengine
+FROM shuliyey/tengine
 
 WORKDIR /etc/tengine/html
 
